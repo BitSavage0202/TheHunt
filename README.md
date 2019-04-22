@@ -6,7 +6,7 @@ The road you are about to take will change your path in life...
 
 NP
 
-STEP 1: Decode
+STEP 1: Decode:
 -. --- -
 .--. .-. --- -.
 
